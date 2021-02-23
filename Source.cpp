@@ -20,5 +20,5 @@ private:
 };
 
 int main() {
-	blablabla
+	cout << "I don't ponimat' c++";
 }
